@@ -16,7 +16,7 @@ Aqui vemos en este plot como la actividad Surfing es la que tuvo mas casos, pero
 
 Siguiendo lo descrito, en este grafico (Swarmplot) se llega a ver como la diferencia de colores hace notar que la actividad con mas victimas fatales es la de Swimming y como la que menos victimas fatales tiene es la de Surfing.
 
-![boxplot](https://github.com/19972024/Shark_Project/assets/156945446/866a618e-e00f-4ab6-9fcd-4e2ccd3c0c23)
+![boxplot](https://github.com/19972024/Shark_Project/assets/156945446/d2dce60d-b3cb-4f4b-b7a0-ada98c70c63d)
 
 
 La caja del boxplot representa el 50% de los datos que hay en la columna nombrada. La línea dentro de la caja representa la mediana de los datos, es decir, en este caso la mediana de mas victimas fatales estuvo entre aproximadamente el año 1920 y el año 1990. En Los bigotes se extienden los casos entre el 1820 y el 2018. Los puntos fuera de los bigotes se consideran valores atípicos o extremos. Es curioso que hay datos atipicos de una victima fatal con registro entre el año 1400 y 1550 aproximadamente.
