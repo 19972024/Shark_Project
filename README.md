@@ -20,3 +20,4 @@ Siguiendo lo descrito, en este grafico (Swarmplot) se llega a ver como la difere
 
 
 La caja del boxplot representa el 50% de los datos que hay en la columna nombrada. La línea dentro de la caja representa la mediana de los datos, es decir, en este caso la mediana de mas victimas fatales estuvo entre aproximadamente el año 1920 y el año 1990. En Los bigotes se extienden los casos entre el 1820 y el 2018. Los puntos fuera de los bigotes se consideran valores atípicos o extremos. Es curioso que hay datos atipicos de una victima fatal con registro entre el año 1400 y 1550 aproximadamente.
+En conclusion, podemos decir que hay varias cosas que nos sorprendieron
