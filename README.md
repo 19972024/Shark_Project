@@ -41,4 +41,3 @@ EN CONCLUSION: Analizando los diferentes graficos podemos ver que aqui tambien s
 
 HIPOTESIS 3: Siguiendo con las actividades en los diferentes paises, hay alguna actividad que sea en comparacion mas fatal que no letal?
 
-![Proporcion de casos fatales y no en cada pais por actividad](https://github.com/19972024/Shark_Project/assets/156945446/53a542f1-e27e-4859-b1e8-1a81de861f4e)
