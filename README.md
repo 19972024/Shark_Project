@@ -78,4 +78,19 @@ Proporción de casos fatales y no fatales en REUNION
 ![Actividad_fatal_no_fatal_por_paisREUNION](https://github.com/19972024/Shark_Project/assets/156945446/265b177b-4b2a-4733-940d-bc6cd46f3feb)
 
 
-Despues de varios analisis podemos ver diferentes cosas muy interesantes
+Despues de varios analisis podemos ver diferentes cosas muy interesantes que dividiremos por pais:
+En Usa podemos ver que las victimas fatales son muy pocas y la unica variable que se nota un poquito es la de Swimming, sorprende tambien la cantidad de casos en la actividad Surfing y las pocas vicitmas fatales que hay.
+En Australia sorprende que casi la mitad de los ataques a nadadores es fatal, aqui la variable mas alta de no fatal es la de fishing.
+En Sudafrica pasa lo mismo que en Australia.
+En Brazil pasa lo mismo que los anteriores lo que empieza a demostrar en las hipotesis anteriores que la actividad mas susceptible a tener victimas fatales es la de Swimming.
+En Papua al contrario se lleva muchas victimas fatales la actividad fishing y 0 victimas la actividad Surfing.
+En Nueva Zelanda vemos lo mismo que en Australia, Sud Africa.
+En Bahamas vemos que es muy dificil morir si se es atacado por un tiburon es el primer pais que no tiene victimas por surfing y sorprende que no tenga victimas por la actividad con mas muertes que es Swimming.
+En Mexico la cosa es bastante interesante ya que casi todas las variables estan al 50% entre victimas fatales y no. Sorprende tambien que es el unico pais que tiene una variable mas mortal que no mortal y esa es la de Diving.
+En Italia parecido a Australia solo que aqui tambien es el unico pais que tiene una variable mas mortal que no mortal y esa es la de Swimming.
+En Fiji la variable Diving se lleva la atencion ya que tiene casi el 40% de victimas fatales, como sorprende tambien las 0 en surfing.
+En Nueva Caledonia no hay sorpresas pero en Reunion si ya que en este archipielago Frances si Eres atacado por un tiburon mientras nada las probabilidades de morir son del 100%.
+
+FINAL:
+Tengo que decir que para ser mi primer proyecto quede con mas preguntas que certezas ya que las hipotesis planteadas me dejaron con muchas mas preguntas de las que empeze.., En fin espero este analisis haya sido interesante.
+Saludos!!!
