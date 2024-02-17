@@ -40,27 +40,42 @@ EN CONCLUSION: Analizando los diferentes graficos podemos ver que aqui tambien s
 ![istockphoto-1267653808-1024x1024](https://github.com/19972024/Shark_Project/assets/156945446/51eb9d3f-1fbe-4fed-a258-fa1597461b6d)
 
 HIPOTESIS 3: Siguiendo con las actividades en los diferentes paises, hay alguna actividad que sea en comparacion mas fatal que no letal?
+
 Proporción de casos fatales y no fatales en USA
-![proporcion_fatal_no_fatal_USA](https://github.com/19972024/Shark_Project/assets/156945446/b9a2084c-356b-44e3-bbd2-5809f1644152)
+![Actividad_fatal_no_fatal_por_paisUSA](https://github.com/19972024/Shark_Project/assets/156945446/12db84a5-d7a7-4b56-bdde-e25b71abe58e)
+
 Proporción de casos fatales y no fatales en AUSTRALIA
-![proporcion_fatal_no_fatal_AUSTRALIA](https://github.com/19972024/Shark_Project/assets/156945446/8eacf793-6c53-4dde-b2ec-6b8d394385e2)
+![Actividad_fatal_no_fatal_por_paisAUSTRALIA](https://github.com/19972024/Shark_Project/assets/156945446/964b7954-c944-4a67-8011-afede07b27a3)
+
 Proporción de casos fatales y no fatales en SUDAFRICA
-![proporcion_fatal_no_fatal_SOUTH AFRICA](https://github.com/19972024/Shark_Project/assets/156945446/0f5a1d48-0023-455d-b7b6-2d023832930f)
+![Actividad_fatal_no_fatal_por_paisSOUTH AFRICA](https://github.com/19972024/Shark_Project/assets/156945446/fda1ffaf-ff5c-461f-9b02-0746a7007b23)
+
 Proporción de casos fatales y no fatales en BRAZIL
-![proporcion_fatal_no_fatal_PAPUA NEW GUINEA](https://github.com/19972024/Shark_Project/assets/156945446/e2ba942c-64b7-40cb-9a1e-e8cf1af2cd29)
+![Actividad_fatal_no_fatal_por_paisBRAZIL](https://github.com/19972024/Shark_Project/assets/156945446/5c6d0a3f-396a-46a4-b312-3d5ec2b7dfef)
+
 Proporción de casos fatales y no fatales en PAPUA NUEVA GUINEA
-![proporcion_fatal_no_fatal_BRAZIL](https://github.com/19972024/Shark_Project/assets/156945446/d1f5f639-1090-4576-ba7a-a66d4d014c08)
+![Actividad_fatal_no_fatal_por_paisPAPUA NEW GUINEA](https://github.com/19972024/Shark_Project/assets/156945446/47ea8388-eac2-4a2c-8188-c2698d84a3e9)
+
 Proporción de casos fatales y no fatales en NUEVA ZELANDA
-![proporcion_fatal_no_fatal_NEW ZEALAND](https://github.com/19972024/Shark_Project/assets/156945446/5ef0d44a-9920-4acc-8a33-3e1ee2c87628)
+![Actividad_fatal_no_fatal_por_paisNEW ZEALAND](https://github.com/19972024/Shark_Project/assets/156945446/77de2f5f-4005-48a4-aec5-890ad314eccc)
+
 Proporción de casos fatales y no fatales en BAHAMAS
-![proporcion_fatal_no_fatal_BAHAMAS](https://github.com/19972024/Shark_Project/assets/156945446/e093bc18-fb71-4076-8f38-6db1377009eb)
+![Actividad_fatal_no_fatal_por_paisBAHAMAS](https://github.com/19972024/Shark_Project/assets/156945446/ee06d63e-38c8-48a9-aaae-949fa58bb62b)
+
 Proporción de casos fatales y no fatales en MEXICO
-![proporcion_fatal_no_fatal_MEXICO](https://github.com/19972024/Shark_Project/assets/156945446/d3c599e4-eb05-4edf-ac4f-23e146ea7e50)
+![Actividad_fatal_no_fatal_por_paisMEXICO](https://github.com/19972024/Shark_Project/assets/156945446/140dabc1-6ca1-4014-b682-7b5885cd1c5e)
+
 Proporción de casos fatales y no fatales en ITALIA
-![proporcion_fatal_no_fatal_ITALY](https://github.com/19972024/Shark_Project/assets/156945446/4775af0a-b717-4caf-994b-d6d6e8d528c7)
+![Actividad_fatal_no_fatal_por_paisITALY](https://github.com/19972024/Shark_Project/assets/156945446/5a42d8c7-6fad-49b9-b3a7-545ce6b7d45a)
+
 Proporción de casos fatales y no fatales en FIJI
-![proporcion_fatal_no_fatal_FIJI](https://github.com/19972024/Shark_Project/assets/156945446/1e6f6960-462a-4775-8bcc-9e3927d3225d)
+![Actividad_fatal_no_fatal_por_paisFIJI](https://github.com/19972024/Shark_Project/assets/156945446/416cfd56-e7ef-46f8-a4ea-3593b724e004)
+
 Proporción de casos fatales y no fatales en NUEVA CALEDONIA
-![proporcion_fatal_no_fatal_NEW CALEDONIA](https://github.com/19972024/Shark_Project/assets/156945446/c82d3c94-3751-4893-b091-e5bb791fe399)
+![Actividad_fatal_no_fatal_por_paisNEW CALEDONIA](https://github.com/19972024/Shark_Project/assets/156945446/db1cf21d-176a-41a3-b5c2-0a1eb10044e3)
+
 Proporción de casos fatales y no fatales en REUNION
-![proporcion_fatal_no_fatal_REUNION](https://github.com/19972024/Shark_Project/assets/156945446/941f9ef2-8126-4fdf-b68d-4a6c57d42227)
+![Actividad_fatal_no_fatal_por_paisREUNION](https://github.com/19972024/Shark_Project/assets/156945446/265b177b-4b2a-4733-940d-bc6cd46f3feb)
+
+
+Despues de varios analisis podemos ver diferentes cosas muy interesantes
