@@ -1,3 +1,4 @@
 # Shark_Project
 Shark Attack CSV para mi primer proyecto en Python.
-![_105225133_051701037](https://github.com/19972024/Shark_Project/assets/156945446/b21ef1c5-1f21-4b9e-9d7b-cfcfa9875ab5)
+![aviso-ataque-tirubon-california](https://github.com/19972024/Shark_Project/assets/156945446/c02248bf-c10a-4d3d-ae21-6fa0cd5aebe3)
+
