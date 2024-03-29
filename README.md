@@ -4,7 +4,7 @@
 
 INTRODUCCION:
 
-Gracias a los datos obtenidos del conjunto de datos attacks.csv, obtuvimos información valiosa sobre distintos temas. Tras comprender y depurar este conjunto de datos, estas son mis hipótesis relacionadas con este tema:
+Gracias a los datos obtenidos del conjunto de datos attacks.csv, obtuvimos información valiosa sobre distintos temas. Tras comprender y depurar este conjunto de datos, estas son mis hipótesis:
 
 HIPOTESIS 1: Es la actividad con mas casos la mas fatal?
 
